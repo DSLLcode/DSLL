@@ -1,1 +1,1 @@
-# DSLL
+# Deep Streaming Label Learning (DSLL)
