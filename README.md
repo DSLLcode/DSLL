@@ -12,9 +12,9 @@
 - liac-arff (pip install liac-arff)
 
 ## Running
-`cd ./`    # Open the folder where the code is located
+`cd ./`    # open the folder where the code is located
 
-`python3 DSLL.py`
+`python3 DSLL.py`   # run DSLL model
 
 ## Results
 ![image](https://github.com/DSLLcode/DSLL/blob/master/results/Figure1.jpg)
