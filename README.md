@@ -35,9 +35,9 @@ More detailed results can be found in the Supplementary Materials.
 ## Cite
 
 ```
-@incollection{icml2020_230,
+@inproceedings{icml2020_230,
 Author = {Wang, Zhen and Liu, Liu and Tao, Dacheng},
-Booktitle = {International Conference on Machine Learning (ICML 2020)},
+Booktitle = {International Conference on Machine Learning (ICML)},
 Pages = {378--387},
 Title = {Deep Streaming Label Learning},
 Year = {2020}}
